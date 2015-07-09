@@ -101,6 +101,7 @@ unsigned int fiter(unsigned int TA)
             }
             case 1:
             {
+
                 return T_tempA+T_Delt;//原滤波计划+变化量
             }
             case 2:
